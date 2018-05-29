@@ -1,0 +1,6 @@
+[
+  "test_gradeConverter.py::test_smoke",
+  "test_gradeConverter.py::test_gradeAverage",
+  "test_gradeConverter.py::test_convertNumberToGrade",
+  "test_gradeConverter.py::test_getMessage"
+]
